@@ -14,6 +14,8 @@
   ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCtLKirZ31xlQSrcLAF7Owo5PPWWF9aQQWW52T93i+0gTzMZPzzC9Vjg7OFYzmi3xQTpnOeKvKpg1P6X1OlovMT0AaJJaApnRe5wj/ZUkxioY4QURrIo4PvklsOAeQTHRq9G9ROrjRT8rB0F+GYEdFv/ytJlB3QfjSBW6KMhN66iPRQ2Gi5SOcP+mGVwZws9+7ABqiAiYbsBQOO2n0mROly/HErTviUaJACPNQGoZzsNcsXz/cpm01LVdCQHrr0ZIcXwZNfpGAqmxUe9itISnGSBQ2eutcIzoIzIHUdCgrVLGw3nR9KOXBynmZ2SIEVwIBSOuCjFHoZGW3Ll4D6yFSL ericzsf@guanxi.me
  */
 
+//git@github.com:jackzsf/GitTest.git
+
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
